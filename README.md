@@ -9,4 +9,4 @@ If you use results produced by my code in any publication, please cite my paper:
 Jaskirat Singh, Puneet Kumar Aggarwal, Parita Jain. “Property Rate Forecast Using Machine Learning ”. Design Engineering, Aug. 2021, pp. 9927 -49, http://thedesignengineering.com/index.php/DE/article/view/3622.
 
 
-![alt text](Major Project PPT.pptx.jpg)
+![alt text](https://github.com/jaskirat111/Housing-Price-Prediction-using-Advanced-ML-Algorithms/blob/master/Major%20Project%20PPT.pptx%20(1).jpg)
